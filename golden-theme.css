@@ -1,0 +1,67 @@
+/* Golden title */
+h1.title {
+  color: #673AB7;
+  font-weight: bold;
+}
+
+h2.title {
+  color: #673AB7;
+  font-weight: bold;
+}
+
+h3.title {
+  color: #673AB7;
+  font-weight: bold;
+}
+
+/* Subtitle styling */
+h4.subtitle {
+  color: #a97400;
+  font-style: italic;
+}
+
+/* Body */
+body {
+  background-color: white;
+  color: #000000;
+}
+
+/* Section headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #63488d;
+}
+
+/* Links */
+a {
+  color: #63488d;
+}
+
+a:hover {
+  color: #e3ae2a;
+}
+
+/* Inline code */
+code {
+  color: #7a0019;
+  background-color: #f0ede8;
+}
+
+/* Code blocks */
+pre {
+  background-color: #24135f;
+  color: #f4e8d8;
+  border-left: 4px solid #e3ae2a;
+}
+
+/* Blockquote */
+blockquote {
+  border-left: 4px solid #e3ae2a;
+  background-color: #f4e8d8;
+  color: #000000;
+  font-style: italic;
+}
+
+/* Horizontal rule */
+hr {
+  border-top: 2px solid #e3ae2a;
+}
